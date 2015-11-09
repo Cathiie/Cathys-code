@@ -1,0 +1,28 @@
+li.link {
+	background-color: red;
+}
+a:link {
+	color: white;	
+}
+#about_blue {
+	background-color: #6495ED;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+ul.blue_list {
+	color: blue;
+}
+#about_yellow {
+	background-color: #FFEBCD;
+	border-style: solid;
+	border-width: 3px;
+	border-color: black;
+}
+ul.yellow_list {
+	color: orange;
+}
+.important {
+	font-size: 16px;
+	font-weight: bold;
+}

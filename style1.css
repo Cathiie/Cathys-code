@@ -1,0 +1,20 @@
+h1 {
+	color: red;
+}
+p {
+	color: blue;
+	font-style: helvetica;
+	font-size: 16px;
+}
+.yellow {
+	background-color: yellow;
+
+}
+h2 {
+	color: green;
+	background-color: orange;
+}
+.teal {
+	background-color: teal;
+
+}
