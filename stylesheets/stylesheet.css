@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   background: #8080ff;
-  color: #737373;
+  color: #ebf9d2;
   font: 16px;
   line-height: 1.5;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
@@ -65,7 +65,7 @@ header h1:before {
 header h2 {
   font-size: 18px;
   font-weight: 300;
-  color: #666;
+  color: #ebf9d2;
 }
 
 #downloads .btn {
